@@ -75,16 +75,6 @@
 
   ### 4. `Crane SolidWorks/` — 3D CAD Model
 
-  | File Type        | Contents
-
-  | File Type        | Contents
-                  |
-  |------------------|----------------------------------------------------------
-  ----------------|
-  | Parts (`.sldprt`)| `300-34`, `350-33A`, `503-986`, `504-986`, `540-14` (×5
-  variants), `570-33`, `Part2`, `Part3`, `Part6`, `Part7`, `base 1` |
-  | Assemblies (`.sldasm`) | `540-14.sldasm`, `Assem1.SLDASM` 
-              |
 
 
   ---
