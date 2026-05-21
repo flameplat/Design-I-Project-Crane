@@ -11,7 +11,7 @@
   ## Introduction
 
 
-    This is a complete mechanical engineering design project for a 1-ton shop 
+  This is a complete mechanical engineering design project for a 1-ton shop 
   crane. The work spans from academic literature review → analytical
   force/stress calculations → full 3D CAD modelling in SolidWorks. The design
   follows standard mechanical engineering methodology: define loads, analyze
